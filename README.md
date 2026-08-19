@@ -9,7 +9,7 @@ The code below represents a standard Offline Hangar modification for the game ve
 
 ![Hangar Preview](shot_004.jpg)
 
-Download client: https://archive.org/download/world-of-tanks-versions/EU/0.06/World_of_Tanks_0.06.02.08.00_EU_0000_SD.7z
+Download client: https://public-repo.com/wot/World-of-tanks-pre1.0/0.6.01/RU/World_of_Tanks_0.06.01.05.00_RU_0000_SD.7z
 
 Requires Python 2.6.6 x32 to be compiled and used in the game or extract two files from this archive into your PjOrion folder and change your Python library to python26.dll via Terminal -> Settings -> Basic setup.
 ---
